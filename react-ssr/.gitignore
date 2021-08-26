@@ -1,0 +1,5 @@
+node_modules
+server
+dist
+*lock.json
+.DS_Store
