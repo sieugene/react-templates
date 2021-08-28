@@ -1,0 +1,16 @@
+{
+  "name": "react-mf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx lerna run dev --parallel"
+  },
+  "keywords": [],
+  "author": "sieugene",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}

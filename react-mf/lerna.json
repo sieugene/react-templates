@@ -1,0 +1,4 @@
+{
+  "packages": ["app1", "host"],
+  "version": "0.0.0"
+}
